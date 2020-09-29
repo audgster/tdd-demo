@@ -1,0 +1,11 @@
+/Users/audreys/Projects/recruiting/tdddemo/bin/Debug/netcoreapp2.2/tdddemo.deps.json
+/Users/audreys/Projects/recruiting/tdddemo/bin/Debug/netcoreapp2.2/tdddemo.runtimeconfig.json
+/Users/audreys/Projects/recruiting/tdddemo/bin/Debug/netcoreapp2.2/tdddemo.runtimeconfig.dev.json
+/Users/audreys/Projects/recruiting/tdddemo/bin/Debug/netcoreapp2.2/tdddemo.dll
+/Users/audreys/Projects/recruiting/tdddemo/bin/Debug/netcoreapp2.2/tdddemo.pdb
+/Users/audreys/Projects/recruiting/tdddemo/obj/Debug/netcoreapp2.2/tdddemo.csprojAssemblyReference.cache
+/Users/audreys/Projects/recruiting/tdddemo/obj/Debug/netcoreapp2.2/tdddemo.csproj.CoreCompileInputs.cache
+/Users/audreys/Projects/recruiting/tdddemo/obj/Debug/netcoreapp2.2/tdddemo.AssemblyInfoInputs.cache
+/Users/audreys/Projects/recruiting/tdddemo/obj/Debug/netcoreapp2.2/tdddemo.AssemblyInfo.cs
+/Users/audreys/Projects/recruiting/tdddemo/obj/Debug/netcoreapp2.2/tdddemo.dll
+/Users/audreys/Projects/recruiting/tdddemo/obj/Debug/netcoreapp2.2/tdddemo.pdb

@@ -1,0 +1,17 @@
+/Users/audreys/Projects/recruiting/tdddemotest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/audreys/Projects/recruiting/tdddemotest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/audreys/Projects/recruiting/tdddemotest/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/audreys/Projects/recruiting/tdddemotest/bin/Debug/netcoreapp2.2/tdddemotest.deps.json
+/Users/audreys/Projects/recruiting/tdddemotest/bin/Debug/netcoreapp2.2/tdddemotest.runtimeconfig.json
+/Users/audreys/Projects/recruiting/tdddemotest/bin/Debug/netcoreapp2.2/tdddemotest.runtimeconfig.dev.json
+/Users/audreys/Projects/recruiting/tdddemotest/bin/Debug/netcoreapp2.2/tdddemotest.dll
+/Users/audreys/Projects/recruiting/tdddemotest/bin/Debug/netcoreapp2.2/tdddemotest.pdb
+/Users/audreys/Projects/recruiting/tdddemotest/bin/Debug/netcoreapp2.2/tdddemo.dll
+/Users/audreys/Projects/recruiting/tdddemotest/bin/Debug/netcoreapp2.2/tdddemo.pdb
+/Users/audreys/Projects/recruiting/tdddemotest/obj/Debug/netcoreapp2.2/tdddemotest.csprojAssemblyReference.cache
+/Users/audreys/Projects/recruiting/tdddemotest/obj/Debug/netcoreapp2.2/tdddemotest.csproj.CoreCompileInputs.cache
+/Users/audreys/Projects/recruiting/tdddemotest/obj/Debug/netcoreapp2.2/tdddemotest.AssemblyInfoInputs.cache
+/Users/audreys/Projects/recruiting/tdddemotest/obj/Debug/netcoreapp2.2/tdddemotest.AssemblyInfo.cs
+/Users/audreys/Projects/recruiting/tdddemotest/obj/Debug/netcoreapp2.2/tdddemotest.csproj.CopyComplete
+/Users/audreys/Projects/recruiting/tdddemotest/obj/Debug/netcoreapp2.2/tdddemotest.dll
+/Users/audreys/Projects/recruiting/tdddemotest/obj/Debug/netcoreapp2.2/tdddemotest.pdb
